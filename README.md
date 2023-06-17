@@ -49,6 +49,10 @@ npm start
 http://localhost:3000/
 
 ```
+## Output
+
+![Final Output](https://github.com/piyushmali/PollSurvey-dApp/blob/main/Screenshot%20(151).png)
+![Final Output](https://github.com/piyushmali/PollSurvey-dApp/blob/main/Screenshot%20(150).png)
 
 
 
